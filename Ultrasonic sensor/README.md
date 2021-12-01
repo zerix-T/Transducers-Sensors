@@ -9,6 +9,6 @@ For the connection of the sensor with arduino:
 - pin trig to any digital pin 
 - pin echo to another digital pin
 
-The above code actually perfors a simple detection test. That is, 
+The above code actually performs a simple detection test. That is, 
 if any object is within 10 cm infront of sensor, it prints red zone alert message
 else it tells object is in safe area.
