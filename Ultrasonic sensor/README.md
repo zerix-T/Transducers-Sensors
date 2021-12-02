@@ -12,3 +12,14 @@ For the connection of the sensor with arduino:
 The above code actually performs a simple detection test. That is, 
 if any object is within 10 cm infront of sensor, it prints red zone alert message
 else it tells object is in safe area.
+
+
+BUZZER
+Buzzer, an output device can be mainly of two types :
+-Piezoelectric buzzer
+-Magnetic buzzer
+
+In peizoelectric, when an AC voltage is applied to the peizo element, the element extends and shrinks diametrically. The motion of this vibration generates sound waves.
+In magnetic, there is vibrating disk which is attracted to the pole by the magnetic field. When an oscillating signal is moved through the coil, it produces a fluctuating magnetic field which vibrates the disk at a frequency equal to that of the drive signal.
+
+In the above Ultrasonic_as_alarm_test.ino file, the piezo based buzzer is used. 
