@@ -13,6 +13,7 @@ The above code actually performs a simple detection test. That is,
 if any object is within 10 cm infront of sensor, it prints red zone alert message
 else it tells object is in safe area.
 
+![ultrasonic_as_alarm](https://user-images.githubusercontent.com/66858111/144490627-74545d7a-77e4-4c74-a48c-f7ad209a7cdf.jpg)
 
 BUZZER
 Buzzer, an output device can be mainly of two types :
